@@ -3,11 +3,9 @@
 A beginner‑friendly command‑line Contact Book that stores contacts permanently using a JSON file.
 This project demonstrates real programming logic such as CRUD operations, file handling, and modular functions.
 
-
 ---
 
 ##✨ Features:
-
 Add new contacts
 
 View all saved contacts
@@ -19,8 +17,6 @@ Update contact details
 Delete contacts
 
 Permanent storage using JSON file
-
-
 
 ---
 
@@ -35,8 +31,6 @@ Loops & Conditions
 File Handling (JSON)
 
 Modular Programming Structure
-
-
 
 ---
 
@@ -54,19 +48,15 @@ The program runs in the terminal and displays a menu:
 
 User selects an option and the program performs the action while saving data automatically.
 
-
 ---
 
 ###▶️ How to Run:
 
 1. Install Python (3.8+ recommended)
 
-
 2. Download or clone this repository
 
-
 3. Open terminal in project folder
-
 
 4. Run:
 ```bash
