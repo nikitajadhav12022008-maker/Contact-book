@@ -1,19 +1,21 @@
 ##python based contact book:
+##importing json and os:
 import json
 import os
 
 FILE_NAME = "contacts.json"
-
+#-------------LOAD CONTACTS-----------------
 def load_contacts():
     if os.path.exists(FILE_NAME):
         with open(FILE_NAME,"r") as file:
             return json.load(file)
     return {}
-
+#---------------SAVE CONTACTS--------------------
 def save_contacts(contacts):
     with open(FILE_NAME,"w") as file:
         json.dump(contacts,file,indent=4)
 
+#----------------ADD CONTACTS--------------------
 def add_contact(contacts):
     name = input("Enter name:").title()
 
@@ -27,6 +29,7 @@ def add_contact(contacts):
     save_contacts(contacts)
     print("Contact added successfully!")
 
+#------------VIEW CONTACTS------------
 def view_contacts(contacts):
     if not contacts:
         print("No contacts found.")
@@ -36,7 +39,7 @@ def view_contacts(contacts):
     for name, info in contacts.items():
         print(f"{name} | {info['phone']} | {info['email']}")
 
-
+-------------SEARCH CONTACTS-------------
 def search_contact(contacts):
     name = input("Enter name to search: ").title()
 
@@ -49,7 +52,7 @@ def search_contact(contacts):
         print("Contact not found.")
 
 
-
+#------------UPDATE CONTACTS-----------
 def update_contact(contacts):
     name = input("Enter contact to update: ").title()
 
@@ -63,7 +66,7 @@ def update_contact(contacts):
     else:
         print("Contact not found.")
 
-
+#--------------DELETE CONTACTS--------------
 def delete_contact(contacts):
     name = input("Enter contact to delete: ").title()
 
@@ -74,7 +77,7 @@ def delete_contact(contacts):
     else:
         print("Contact not found.")
 
-
+#--------------MAIN MENU-----------------
 def main():
     contacts = load_contacts()
 
@@ -107,4 +110,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
