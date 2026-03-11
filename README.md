@@ -1,5 +1,4 @@
 ##📒 Terminal Contact Book (Python):
-
 A beginner‑friendly command‑line Contact Book that stores contacts permanently using a JSON file.
 This project demonstrates real programming logic such as CRUD operations, file handling, and modular functions.
 
@@ -7,6 +6,7 @@ This project demonstrates real programming logic such as CRUD operations, file h
 ---
 
 ##✨ Features:
+
 -Add new contacts
 -View all saved contacts
 -Search a contact by name
@@ -18,6 +18,7 @@ This project demonstrates real programming logic such as CRUD operations, file h
 ---
 
 ###🧠 Concepts Used:
+
 -Functions
 -Dictionaries
 -Loops & Conditions
