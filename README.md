@@ -1,10 +1,10 @@
-##📒 Terminal Contact Book (Python):
+## 📒 Terminal Contact Book (Python):
 
 A beginner‑friendly command‑line Contact Book that stores contacts permanently using a JSON file.
 This project demonstrates real programming logic such as CRUD operations, file handling, and modular functions.
 ---
 
-##✨ Features:
+## ✨ Features:
 
 -Add new contacts
 -View all saved contacts
@@ -14,7 +14,7 @@ This project demonstrates real programming logic such as CRUD operations, file h
 -Permanent storage using JSON file
 ---
 
-###🧠 Concepts Used:
+### 🧠 Concepts Used:
 
 -Functions
 -Dictionaries
@@ -23,7 +23,7 @@ This project demonstrates real programming logic such as CRUD operations, file h
 -Modular Programming Structure
 ---
 
-##🖥️ How It Works:
+## 🖥️ How It Works:
 The program runs in the terminal and displays a menu:
 ==== CONTACT BOOK ====
 1. Add Contact
@@ -35,7 +35,7 @@ The program runs in the terminal and displays a menu:
 User selects an option and the program performs the action while saving data automatically.
 ---
 
-###▶️ How to Run:
+### ▶️ How to Run:
 
 1. Install Python (3.8+ recommended)
 2. Download or clone this repository
@@ -48,7 +48,7 @@ contacts.json
 This file stores all contacts permanently.
 ---
 
-##📂 Project Structure:
+## 📂 Project Structure:
 
 contact-book/
 │── contact_book.py
@@ -56,7 +56,7 @@ contact-book/
 │── README.md
 ---
 
-##📝 Example Data (contacts.json):
+## 📝 Example Data (contacts.json):
 
 {
     "nikita": {
@@ -66,7 +66,7 @@ contact-book/
 }
 ---
 
-##🚀 Possible Improvements (Future Updates):
+## 🚀 Possible Improvements (Future Updates):
 -Sort contacts alphabetically
 -Multiple phone numbers per contact
 -Import/Export contacts
@@ -74,7 +74,7 @@ contact-book/
 -Password protected access
 ---
 
-##👨‍💻 Author:
+## 👨‍💻 Author:
 Nikita Jadhav
 ------
 
