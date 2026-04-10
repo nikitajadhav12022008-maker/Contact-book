@@ -51,12 +51,12 @@ User selects an option and the program performs the action while saving data aut
 
 ## 📝 Example Data (contacts.json):
 
-{
-    "nikita": {
-        "phone": "9226279351",
-        "email": "nikita@email.com"
-    }
-}
+- {
+-       "nikita": {
+-       "phone": "9226279351",
+-       "email": "nikita@email.com"
+-    }
+- }
 
 ---
 
