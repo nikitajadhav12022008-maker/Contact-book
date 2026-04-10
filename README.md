@@ -42,10 +42,10 @@ User selects an option and the program performs the action while saving data aut
 
 ## 📂 Project Structure:
 
-contact-book/
-│── contact_book.py
-│── contacts.json (auto-created)
-│── README.md
+- contact-book/
+- │── contact_book.py
+- │── contacts.json (auto-created)
+- │── README.md
 
 ---
 
