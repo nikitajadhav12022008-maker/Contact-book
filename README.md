@@ -40,6 +40,15 @@ User selects an option and the program performs the action while saving data aut
 
 ---
 
+## 📂 Project Structure:
+
+contact-book/
+│── contact_book.py
+│── contacts.json (auto-created)
+│── README.md
+
+---
+
 ### ▶️ How to Run:
 
 1. Install Python (3.8+ recommended)
@@ -53,13 +62,7 @@ contacts.json
 This file stores all contacts permanently.
 ---
 
-## 📂 Project Structure:
 
-contact-book/
-│── contact_book.py
-│── contacts.json (auto-created)
-│── README.md
----
 
 ## 📝 Example Data (contacts.json):
 
