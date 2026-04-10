@@ -18,11 +18,12 @@ This project demonstrates real programming logic such as CRUD operations, file h
 
 ### 🧠 Concepts Used:
 
--Functions
--Dictionaries
--Loops & Conditions
--File Handling (JSON)
--Modular Programming Structure
+- Functions
+- Dictionaries
+- Loops & Conditions
+- File Handling (JSON)
+- Modular Programming Structure
+
 ---
 
 ## 🖥️ How It Works:
