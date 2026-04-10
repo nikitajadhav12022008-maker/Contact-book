@@ -49,6 +49,17 @@ User selects an option and the program performs the action while saving data aut
 
 ---
 
+## 📝 Example Data (contacts.json):
+
+{
+    "nikita": {
+        "phone": "9226279351",
+        "email": "nikita@email.com"
+    }
+}
+
+---
+
 ### ▶️ How to Run:
 
 1. Install Python (3.8+ recommended)
@@ -64,15 +75,7 @@ This file stores all contacts permanently.
 
 
 
-## 📝 Example Data (contacts.json):
 
-{
-    "nikita": {
-        "phone": "9226279351",
-        "email": "nikita@email.com"
-    }
-}
----
 
 ## 🚀 Possible Improvements (Future Updates):
 -Sort contacts alphabetically
