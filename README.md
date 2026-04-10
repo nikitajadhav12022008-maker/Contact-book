@@ -27,6 +27,7 @@ This project demonstrates real programming logic such as CRUD operations, file h
 ---
 
 ## 🖥️ How It Works:
+
 The program runs in the terminal and displays a menu:
 ==== CONTACT BOOK ====
 1. Add Contact
@@ -36,6 +37,7 @@ The program runs in the terminal and displays a menu:
 5. Delete Contact
 6. Exit
 User selects an option and the program performs the action while saving data automatically.
+
 ---
 
 ### ▶️ How to Run:
