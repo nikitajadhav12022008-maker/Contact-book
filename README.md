@@ -7,12 +7,13 @@ This project demonstrates real programming logic such as CRUD operations, file h
 
 ## ✨ Features:
 
--Add new contacts
--View all saved contacts
--Search a contact by name
--Update contact details
--Delete contacts
--Permanent storage using JSON file
+- Add new contacts
+- View all saved contacts
+- Search a contact by name
+- Update contact details
+- Delete contacts
+- Permanent storage using JSON file
+
 ---
 
 ### 🧠 Concepts Used:
