@@ -61,11 +61,13 @@ User selects an option and the program performs the action while saving data aut
 ---
 
 ## 🚀 Possible Improvements (Future Updates):
+
 - Sort contacts alphabetically
 - Multiple phone numbers per contact
 - Import/Export contacts
 - Simple GUI version
 - Password protected access
+ 
 ---
 ### ▶️ How to Run:
 
@@ -78,12 +80,15 @@ python contact_book.py
 The program will automatically create:
 contacts.json
 This file stores all contacts permanently.
+
 ---
 
 
 
 ## 👨‍💻 Author:
+
 Nikita Jadhav
+
 ------
 
 Created as a beginner Python project to practice logic building and file handling.
