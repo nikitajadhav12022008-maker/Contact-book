@@ -60,6 +60,13 @@ User selects an option and the program performs the action while saving data aut
 
 ---
 
+## 🚀 Possible Improvements (Future Updates):
+- Sort contacts alphabetically
+- Multiple phone numbers per contact
+- Import/Export contacts
+- Simple GUI version
+- Password protected access
+---
 ### ▶️ How to Run:
 
 1. Install Python (3.8+ recommended)
@@ -74,16 +81,6 @@ This file stores all contacts permanently.
 ---
 
 
-
-
-
-## 🚀 Possible Improvements (Future Updates):
--Sort contacts alphabetically
--Multiple phone numbers per contact
--Import/Export contacts
--Simple GUI version
--Password protected access
----
 
 ## 👨‍💻 Author:
 Nikita Jadhav
